@@ -39,8 +39,6 @@ footer {
 .rubyposition-title ruby{
     display: flex;
     justify-content: center;
-    text-align: justify;  /* この指定は text-align-last を IE に対応させるために必要 */
-    text-align-last: justify;
     text-transform:capitalize;
     line-height: 5rem;
 }
